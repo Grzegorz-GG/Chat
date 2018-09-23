@@ -1,0 +1,22 @@
+Server socket initialized
+Server socket parameters: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=7997]
+Connection arrived...
+Socket parameters: Socket[addr=/127.0.0.1,port=50662,localport=7997]
+Thread-2String line received: /nick john
+Thread-2Line is being processed: /nick john
+Thread-2Sent: /nkok john
+Thread-2Sent: /nick john
+Thread-2String line received: 
+Thread-2Line is being processed: 
+Thread-2Sent: john> 
+Thread-2String line received: sdad
+Thread-2Line is being processed: sdad
+Thread-2Sent: john> sdad
+Thread-2String line received: /nick Don
+Thread-2Line is being processed: /nick Don
+Thread-2Sent: /nkok Don
+Thread-2Sent: /nkrm john
+Thread-2Sent: /nick Don
+Thread-2String line received: null
+Thread-2Thread "Thread[Thread-2,5,main]"stopped. Null message received
+Thread-2Thread stopped

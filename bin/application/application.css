@@ -1,0 +1,31 @@
+
+.button {
+	-fx-background-color: radial-gradient( focus-angle 0.0deg, focus-distance 0.0%, center 50.0% 50.0%, radius 100.0%, rgb(255,255,255) 0.0, rgb(204,204,204) 70.0, rgb(204,204,204) 100.0 );
+}
+
+.button:hover {
+	-fx-effect: dropshadow( one-pass-box , black , 8 , 0.0 , 2 , 0 );
+}
+
+.button:pressed {
+	-fx-background-color: blue;
+	-fx-text-fill: white;
+	-fx-effect: dropshadow( one-pass-box , black , 8 , 0.0 , 2 , 0 );
+}
+
+.text-area {
+	-fx-font-family: 'sans-serif' ;
+	-fx-font-size: 12px; 
+}
+
+.list-view .list-cell {
+	-fx-background-color: white;
+	-fx-text-fill: black;
+	-fx-font-family: 'sans-serif';
+	-fx-font-size: 12px;
+	-fx-alignment: center;
+}
+
+.list-view .list-cell:empty {
+	visibility: hidden;
+}
