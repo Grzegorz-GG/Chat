@@ -5,7 +5,7 @@ The project contains:
 <br>
 <ul>
   <li>Client chat application</li>
-  <p>User have access to following options and information/alerts from a server:<br>
+  <p>Name of a particular client (client's nickname) is always highlighted on the list with active clients (users that are logged in i.e they established a connection with the server). User have access to following options and information/alerts from a server:<br>
     <ul>  
       <li>"/quit" - enter in a textfield to disconnect client</li>
       <li>"/nick xxx" - type in to choose a client's nickname</li>
