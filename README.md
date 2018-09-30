@@ -17,7 +17,7 @@ The project contains:
   <li style="margin-bottom: 5px;">Chat server (multithreaded)</li>
   <p>Each client is be placed in a separate thread (threadsArray is be populated with them).</p>
 </ul>
-<p>Further details regarding this application can be found in comments added to majority of source code.</p>
+<p>Further details regarding this application can be found in the comments added to the source code.</p>
 <br>
 <br>
 
