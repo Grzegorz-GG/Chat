@@ -4,7 +4,16 @@ Sample chat application written in JavaFX. FXML layout was created in JavaFX Sce
 The project contains:
 <br>
 <ul>
-  <li>Client chat application</li>
+  <li style="text-decoration: underline;">Client chat application:</li>
+  <p>User have access to following options and information/alerts from a server:<br>
+    <ul>  
+      <li>"/quit" - enter in a textfield to disconnect client</li>
+      <li>"/nick xxx" - type in to choose a client's nickname</li>
+      <li>"/nkok" - information from a server that nick for a given client was accepted</li>
+      <li>"/nkrm xxx" - change/remove a nickname</li>
+      <li>"/nonk" - nick was incorrect or not defined at all</li>
+      <li>"/nkex" - information that nick already exists</li>
+    </ul>
   <li>Chat server - multitheaded (each client in a new thread)</li>
 </ul>
 <br>
