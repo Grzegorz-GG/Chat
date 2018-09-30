@@ -4,8 +4,7 @@ Sample chat application written in JavaFX. FXML layout was created in JavaFX Sce
 The project contains:
 <br>
 <ul>
-  <li>Client chat application</li>
-  <br>
+  <li style="margin-bottom: 5px;">Client chat application</li>
   <p style=" text-align: justify;">Name of a particular client (client's nickname) is always highlighted on the list with active clients (users that are logged in i.e they established a connection with the server). After establishing the connection user needs to enter a nickname using "/nick [nickname]" pattern. Following information/alerts are received from the server:</p>
     <ul>  
       <li>"/nkok" - information from a server that the nickname for a given client was accepted</li>
