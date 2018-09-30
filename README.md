@@ -4,7 +4,7 @@ Sample chat application written in JavaFX. FXML layout was created in JavaFX Sce
 The project contains:
 <br>
 <ul>
-  <li style="text-decoration: underline;">Client chat application</li>
+  <li>Client chat application</li>
   <p>User have access to following options and information/alerts from a server:<br>
     <ul>  
       <li>"/quit" - enter in a textfield to disconnect client</li>
