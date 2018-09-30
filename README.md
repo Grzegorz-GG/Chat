@@ -14,7 +14,7 @@ The project contains:
     </ul>
   <br>
   <p>Each client's nickname is checked whether it is unique in the "realm" of logged users.</p>
-  <li>Chat server (multithreaded)</li>
+  <li style="margin-bottom: 5px;">Chat server (multithreaded)</li>
   <br>
   <p>Each client is be placed in a separate thread (threadsArray is be populated with them).</p>
 </ul>
