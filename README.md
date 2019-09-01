@@ -1,6 +1,6 @@
 # Chat
 
-Sample chat application written in JavaFX. FXML layout was created in JavaFX Scene Builder.
+Sample chat application written in JavaFX (client + multithreaded server). FXML layout was created in JavaFX Scene Builder.
 The project contains:
 <br>
 <ul>
